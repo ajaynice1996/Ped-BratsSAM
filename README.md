@@ -1,3 +1,5 @@
+#We adopted med-sam-brian for multimodal WT and TC segmentation and nnUNet for ET segmentation; The hybrid framework and more updates will updated soon.
+
 # SAM Adaptation for mp-MRI Brain Tumor Segmentation
 
 This is the repository of our accepted CVPR-2024 [paper](https://openaccess.thecvf.com/content/CVPR2024W/DEF-AI-MIA/html/Diana-Albelda_How_SAM_Perceives_Different_mp-MRI_Brain_Tumor_Domains_CVPRW_2024_paper.html) for [DEF-AI-MIA Workshop](https://ai-medical-image-analysis.github.io/4th/). 
